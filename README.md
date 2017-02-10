@@ -1,3 +1,2 @@
 # bKart
-
-My name is bharath
+bharath
